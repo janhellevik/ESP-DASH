@@ -18,7 +18,7 @@
     "chart.js": "^2.9.3",
     "vue": "^2.6.12",
     "vue-chartjs": "^3.5.1",
-    "vue-router": "^3.4.5"
+    "vue-router": "^3.6.5"
   },
   "devDependencies": {
     "@gfx/zopfli": "^1.0.15",
